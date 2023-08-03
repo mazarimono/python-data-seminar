@@ -39,8 +39,18 @@ Chapter7 【ハンズオン】戦略立案のためのデータ分析
 <img width='500px' src="img/data-analysis-circle-check.png">
 
 
+## 誤表記のご連絡
+
+誤表記に気付かれた方は、お手数ですが[issues](https://github.com/mazarimono/python-data-seminar/issues)にいただけますと幸いです。issuesのページに移動していただき、緑色の「New issue」を押していただくと、新しい書き込みが可能となります。
+
+## FAQ
+
+書籍の質問も[issues](https://github.com/mazarimono/python-data-seminar/issues)で受け付けています。
 
 
+## ソースコードのライセンス
+
+[MIT](https://github.com/mazarimono/python-data-seminar/blob/main/LICENSE)
 
 
 
