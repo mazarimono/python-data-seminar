@@ -34,6 +34,11 @@ Chapter5 【ハンズオン】データの準備と前処理
 Chapter6 【ハンズオン】データの可視化    
 Chapter7 【ハンズオン】戦略立案のためのデータ分析    
     
+
+## コード
+
+[notebookリポジトリ](https://github.com/mazarimono/python-data-seminar/tree/main/notebook)にすべてございます。
+
 ## 最後に作るデータを可視化したグラフ
 
 <img width='500px' src="img/data-analysis-circle-check.png">
@@ -46,6 +51,8 @@ Chapter7 【ハンズオン】戦略立案のためのデータ分析
 ## FAQ
 
 書籍の質問も[issues](https://github.com/mazarimono/python-data-seminar/issues)で受け付けています。
+
+
 
 
 ## ソースコードのライセンス
