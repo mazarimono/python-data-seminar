@@ -5,6 +5,16 @@
 
 - [Pythonデータ分析ハンズオンセミナー](https://bookplus.nikkei.com/atcl/catalog/23/07/28/00926/)（日経BP,　[小川英幸](https://twitter.com/OgawaHideyuki)）のサポートページです。
 
+## 間違い・誤表記のご連絡
+
+間違い・誤表記に気付かれた方は、お手数ですが[issues](https://github.com/mazarimono/python-data-seminar/issues)にいただけますと幸いです。issuesのページに移動していただき、緑色の「New issue」を押していただくと、新しい書き込みが可能となります。
+
+### 間違い・誤表記表
+
+| ページ | 内容 | 修正ノート |
+|---|---|---|
+|p69-p70 | コード4-3の実行結果が異なる | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mazarimono/python-data-seminar/blob/main/%E9%96%93%E9%81%95%E3%81%84/chp4_p69_p71.ipynb) | 
+
 
 ## 本書の概要
 
@@ -44,9 +54,6 @@ Chapter7 【ハンズオン】戦略立案のためのデータ分析
 <img width='500px' src="img/data-analysis-circle-check.png">
 
 
-## 間違い・誤表記のご連絡
-
-間違い・誤表記に気付かれた方は、お手数ですが[issues](https://github.com/mazarimono/python-data-seminar/issues)にいただけますと幸いです。issuesのページに移動していただき、緑色の「New issue」を押していただくと、新しい書き込みが可能となります。
 
 ## FAQ
 
