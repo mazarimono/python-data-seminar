@@ -7,5 +7,7 @@
 
 ## notebook
 
-
+- [open with colab first sample.ipynb](https://colab.research.google.com/github/mazarimono/python-data-seminar/blob/main/hands-on-seminar/notebook/first_sample.ipynb)
+- [open with colab prepro_position_data.ipynb](https://colab.research.google.com/github/mazarimono/python-data-seminar/blob/main/hands-on-seminar/notebook/prepro_position_data.ipynb)
+- [open with colab interactive_data_visualization.ipynb](https://colab.research.google.com/github/mazarimono/python-data-seminar/blob/main/hands-on-seminar/notebook/interactive_data_visualization.ipynb)
 
