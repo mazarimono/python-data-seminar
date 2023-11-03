@@ -14,6 +14,7 @@
 | ページ | 内容 | 修正ノート |
 |---|---|---|
 |p69-p70 | コード4-3の実行結果が異なる | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mazarimono/python-data-seminar/blob/main/%E9%96%93%E9%81%95%E3%81%84/chp4_p69_p71.ipynb) | 
+| p110 | panelのmultiselectがColab上で動かない | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mazarimono/python-data-seminar/blob/main/%E9%96%93%E9%81%95%E3%81%84/p110_multiselect_does_not_work.ipynb) |
 
 
 ## 本書の概要
